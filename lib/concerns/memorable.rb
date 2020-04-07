@@ -9,7 +9,7 @@ module Memorable
     self.all.count
   end
 
-  def initialize 
+  def initialize
     
 
 end
