@@ -10,7 +10,7 @@ module Memorable
   end
 
   def initialize
-    
+    self.all << self
 
 end
 
